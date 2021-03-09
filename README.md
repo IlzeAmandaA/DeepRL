@@ -19,5 +19,15 @@ nn_network
 
 # Results
 
-For some fun insights here are some gifs of results. Prey was marked in red, hence preditor had to detec red color:
-![](gifs/pred_sim.gif)
+For some fun insights here are some gifs of results. Prey was marked in red, hence the preditor had to detec red color:
+
+_Simulation_               |  _Reality_
+:-------------------------:|:-------------------------:
+![](gifs/pred_sim.gif)     |  ![](gifs/pred_real.gif)
+
+The preditor itself was marked in green. Hence the prey had to learn to 'run-away' from color green:
+
+_Simulation_               |  _Reality_
+:-------------------------:|:-------------------------:
+![](gifs/prey_sim.gif)     |  ![](gifs/prey_real.gif)
+
