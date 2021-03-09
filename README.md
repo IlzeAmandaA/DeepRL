@@ -2,7 +2,7 @@
 by Ilze Amanda Auzina (ilze.amanda.auzina@gmail.com) and Suzanne Bardelmeijer(suzanne-bardelmeijer@live.nl)  
 
 # Abstract 
-This document contains the final report on the courseLearning Machinesgivenat the Vrije Universiteit Amsterdam in January 2020.  Deep Q-Learning learn-ing method was investigated as an optimal solution for three tasks: (1) obstacleavoidance, (2) foraging and (3) predator-prey behaviour.  The performance wasevaluated both in simulation and in real-life.  The final results indicate that thechosen method is an appropriate solution for the tasks at hand, as the goal of eachtask was achieved. The reality-gap caused minor difficulties, however they wereovercome as the project progressed.  Therefore, the present papers confirms theexisting literature that deep-reinforcement learning can be successfully applied tolearning machines both in simulation and real-life.
+This document contains the final report on the course Learning Machines given at the Vrije Universiteit Amsterdam in January 2020.  Deep Q-Learning learn-ing method was investigated as an optimal solution for three tasks: (1) obstacle avoidance, (2) foraging and (3) predator-prey behaviour.  The performance wasevaluated both in simulation and in real-life.  The final results indicate that the chosen method is an appropriate solution for the tasks at hand, as the goal of eachtask was achieved. The reality-gap caused minor difficulties, however they were overcome as the project progressed.  Therefore, the present papers confirms theexisting literature that deep-reinforcement learning can be successfully applied to learning machines both in simulation and real-life.
 
 For a complete explanation of the model/implementation and the findings, please read the `report.pdf`.
 
@@ -19,4 +19,5 @@ nn_network
 
 # Results
 
-For some fun insights here are some gifs of results: 
+For some fun insights here are some gifs of results. Prey was marked in red, hence preditor had to detec red color:
+![simulation](pred_sim.gif)
