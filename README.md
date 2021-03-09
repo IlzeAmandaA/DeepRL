@@ -9,7 +9,14 @@ For a complete explanation of the model/implementation and the findings, please 
 # Contents
 This repository contains partial code to run DeepRF simulations in software VREP (CoppeliaSim EduV4.0.0), and in hardware, ’Robobo’ an educational robot. Code is written in python 2.7 and the package ’Tensorflow 2.2.4.’ was used for the designs ofthe neural networks. 
 
-The repository only contains the relevant code for the model itslef (not all the depencies for the hardware to run). 
+The repository only contains the relevant code for the model itslef (not all the depencies for the hardware and simulation software to run). 
 
+src directory
+- send_commands.py contains the training and execution mode for 3 expriments 
+
+nn_network
+- nn.py containts the 'controller' (model architecture, optimization algoritm used) 
 
 # Results
+
+For some fun insights here are some gifs of results: 
