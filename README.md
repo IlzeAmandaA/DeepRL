@@ -20,4 +20,4 @@ nn_network
 # Results
 
 For some fun insights here are some gifs of results. Prey was marked in red, hence preditor had to detec red color:
-![simulation](pred_sim.gif)
+![](gifs/pred_sim.gif)
