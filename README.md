@@ -25,7 +25,7 @@ _Simulation_               |  _Reality_
 :-------------------------:|:-------------------------:
 ![](gifs/pred_sim.gif)     |  ![](gifs/pred_real.gif)
 
-The preditor itself was marked in green. Hence the prey had to learn to 'run-away' from color green:
+The preditor was marked in green. Hence the prey had to learn to detect and 'run-away' from color green:
 
 _Simulation_               |  _Reality_
 :-------------------------:|:-------------------------:
